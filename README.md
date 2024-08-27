@@ -2,7 +2,7 @@
 **Angry Birds** is a Finnish action, puzzle, and strategy-based media franchise created by Rovio Entertainment, and owned by Sega. The game series focuses on the eponymous flock of colorful angry birds who try to save their eggs from green-colored pigs.
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/user-attachments/assets/6b739c69-6cfd-4379-97cd-f454a12a6816" alt="Angry Birds 2015 logo">
+  <img width="500" height="120" src="https://github.com/user-attachments/assets/6b739c69-6cfd-4379-97cd-f454a12a6816" alt="Angry Birds 2015 logo">
 </p>
 <div align="center">
 
