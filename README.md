@@ -1,17 +1,26 @@
 # Angry Birds Article
-Angry Birds is a **Finnish action, puzzle, and strategy-based media franchise created by Rovio Entertainment, and owned by Sega.** The game series focuses on the eponymous flock of colorful angry birds who try to save their eggs from green-colored pigs.
+**Angry Birds** is a Finnish action, puzzle, and strategy-based media franchise created by Rovio Entertainment, and owned by Sega. The game series focuses on the eponymous flock of colorful angry birds who try to save their eggs from green-colored pigs.
 
-![Angry_Birds_logo_2015 svg](https://github.com/Juner13/Angry-Birds/assets/136861686/42b254f3-63c5-409d-9969-d2bf6ba0346f)    
-Angry Birds logo founded in 2009
-# Description
+<p align="center">
+  <img width="800" height="300" src="https://github.com/user-attachments/assets/6b739c69-6cfd-4379-97cd-f454a12a6816" alt="Angry Birds 2015 logo">
+</p>
+<div align="center">
+
+*Angry Birds logo from 2015*
+
+</div>
+
+## Description
 
 Inspired by the game Crush the Castle, the game has been praised for its successful combination of fun gameplay, comical style, and low price. Its popularity led to many spin-offs; versions of Angry Birds created for PCs and video game consoles, a market for merchandise featuring its characters, Angry Birds Toons, a televised animated series, and two films; The Angry Birds Movie and its sequel The Angry Birds Movie 2. By January 2014, there had been over 2 billion downloads across all platforms, including both regular and special editions.
-# History
+
+## History
 
 By July 2015, the series' games had been downloaded more than 3 billion times collectively, making it the most downloaded freemium game series of all time. The original Angry Birds has been called "One of the most mainstream games out right now", "One of the great runaway hits of 2010", and "The largest mobile app success the world has seen so far". The first main-series video game sequel, Angry Birds 2, was released on 30 July 2015.
 
 The first game in the series was initially released on 11 December 2009 for iOS. At the time, the 2009 swine flu epidemic was in the news, so the staff decided to use pigs as the enemies of the Angry Birds. The company released ports of the game to other touchscreen smartphone operating systems, including Android. In early 2019, all remaining Angry Birds games released before October 2014 (with the exception of Friends) were discontinued and removed from app stores, though Bad Piggies was added back in early 2020. Rovio has declined to explain their reasoning behind the decision apart from a brief tweet and support response, both giving different answers. However, in June 2021, by popular demand of the fans, Rovio announced that the classic games will be available on the stores again sometime in the future. A recreated version of the original Angry Birds game known as Rovio Classics: Angry Birds came to mobile platforms on 31 March 2022.
-# Video Games
+
+## Video Games
 
 As of January 2023, we will use the current games list as the rest of Angry Birds games are discontinued and removed from the Microsoft Store, App Store, and Play Store.
 | Date | Game | Genre | Description | Download Links |
@@ -20,9 +29,10 @@ As of January 2023, we will use the current games list as the rest of Angry Bird
 | February 2012 | *Angry Birds Friends* | Puzzle | The fourth game of the series. It was originally a Facebook exclusive, but it was later ported to mobile. | PC and Mac: [Microsoft Store](https://www.microsoft.com/en-us/p/angry-birds-friends/9nn6g50qnl1h?activetab=pivot:overviewtab), IOS: [App Store](https://apps.apple.com/us/app/angry-birds-friends/id555936735), Android: [Play Store](https://play.google.com/store/apps/details?id=com.rovio.angrybirdsfriends) |
 | July 2015 | Angry Birds 2 | Puzzle | The direct sequel to *Angry Birds* and the 15th game of the series, involving multistage levels. | PC: [Microsoft Store](https://www.microsoft.com/en-us/p/angry-birds-2/9ntpjw96tsc0?activetab=pivot:overviewtab), IOS: [App Store](https://apps.apple.com/us/app/angry-birds-2/id880047117), Android: [Play Store](https://play.google.com/store/apps/details?id=com.rovio.baba) |
 
-# Films
+## Films
 
 There are two movie films: **The Angry Birds Movie**, and it's sequel **The Angry Birds Movie 2**.
-# Feedbacks
+
+## Feedbacks
 
 Any feedbacks or reports will be posted here, and will let you know in issues.
